@@ -1,5 +1,5 @@
 #include <stdio.h> 
-int main(int argc, char const *argv[])
+int main()
 {
   int num;
   printf("Please Enter a number: ");
