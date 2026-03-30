@@ -1,5 +1,5 @@
 #include <stdio.h> 
-int main(int argc, char const *argv[])
+int main()
 {   
   int area, side; 
   printf("Please Enter a side: ");   
